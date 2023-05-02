@@ -9,3 +9,11 @@
 **Link(s) to work:**
 1. [Upcoming version of my Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 2. [GitHub repo of the live version of my website](https://github.com/charlenedelfin/charlenedelfin.github.io)
+
+### Day 2: May 2, 2023
+
+**Today's Progress**: Returned to GitHub on night of Day 1 to add code to verify website ownership on Google Search Console. This afternoon, used flexbox to organize the photos of my books on my Writing page.
+
+**Thoughts:** This is the first time I'm using Google Search Console. I do not like the way my Writing page appears at the moment, it triggers my obsessive-compulsive tendencies. It really does. I got lost in my own code today, though. Because I forgot to comment my CSS last March, and because I use generic values for my id attributes.
+
+**Link to work:** [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
