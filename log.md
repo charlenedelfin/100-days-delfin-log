@@ -17,3 +17,9 @@
 **Thoughts:** This is the first time I'm using Google Search Console. I do not like the way my Writing page appears at the moment, it triggers my obsessive-compulsive tendencies. It really does. I got lost in my own code today, though. Because I forgot to comment my CSS last March, and because I use generic values for my id attributes.
 
 **Link to work:** [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+### Day 3: May 3, 2023
+
+**Today's Progress:** Commented my CSS, merged the CSS of my homepage and Writing page, fixed some errors, decided to apply most of my CSS to the whole website for consistency, and organized the contents of my CSS file from "sitewide", to "per-page", and to "per screen". (CSS file does not contain those specific words, but it's in this organization.)
+
+**Thoughts:** I'm more focused on coding today.
