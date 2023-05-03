@@ -23,3 +23,7 @@
 **Today's Progress:** Commented my CSS, merged the CSS of my homepage and Writing page, fixed some errors, decided to apply most of my CSS to the whole website for consistency, and organized the contents of my CSS file from "sitewide", to "per-page", and to "per screen". (CSS file does not contain those specific words, but it's in this organization.)
 
 **Thoughts:** I'm more focused on coding today.
+
+**Link(s) to work:**
+1. [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+2. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
