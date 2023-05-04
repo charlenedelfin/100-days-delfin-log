@@ -27,3 +27,11 @@
 **Link(s) to work:**
 1. [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 2. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
+
+### Day 4: May 4, 2023
+
+**Today's Progress:** Returned to Codepen the night of Day 3 to give my website a more responsive design. Also renamed its Writing page to "Books". Today, customized the measurements of the product div elements and designed the buttons to match the overall site design.
+
+**Thoughts:** I feel frustrated with how my buttons are not aligned.
+
+**Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
