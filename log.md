@@ -35,3 +35,11 @@
 **Thoughts:** I feel frustrated with how my buttons are not aligned.
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+## Day 5: May 5, 2023
+
+**Today's Progress:** Tried using CSS grid to align the buttons in the Books page, failed, and returned to flexbox. Learned about grid in the process. Spent remaining time figuring out why main and footer were overlapping. Changed background colors of flexboxes for clearer view of what might be happening.
+
+**Thoughts:** I still feel upset that the buttons are not aligned. Whenever I align them, problems happen. The images disappear, the gaps between the images and the product titles get too big, or some of the images get bigger than the other images. Maybe I should work on the layout of the whole page first before proceeding to the products, the problem could be in the overall layout.
+
+**Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
