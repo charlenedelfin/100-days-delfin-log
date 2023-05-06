@@ -43,3 +43,11 @@
 **Thoughts:** I still feel upset that the buttons are not aligned. Whenever I align them, problems happen. The images disappear, the gaps between the images and the product titles get too big, or some of the images get bigger than the other images. Maybe I should work on the layout of the whole page first before proceeding to the products, the problem could be in the overall layout.
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+## Day 6: May 6, 2023
+
+**Today's Progress:** Resorted to using a blank doc as a sort of duck debugger for mapping out the logic of my code. Figured out why main and footer were overlapping. Part of main was a flexbox within an element, and footer was in a flexbox with a section from main. Footer was following a measurement that had nothing to do with the display case. Fixed it by adding a gap between items of the outer flexbox. Removed background colors. Moved page intro from behind the navbar by increasing margins. Started working on aligning the buttons again.
+
+**Thoughts:** Being unable to fix the footer left me a bit depressed. Now that it's fixed, all of those emotions are suddenly gone. I feel so inspired, I have returned to attempting to align the buttons again. There is hope.
+
+**Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
