@@ -51,3 +51,11 @@
 **Thoughts:** Being unable to fix the footer left me a bit depressed. Now that it's fixed, all of those emotions are suddenly gone. I feel so inspired, I have returned to attempting to align the buttons again. There is hope.
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+## Day 7: May 7, 2023
+
+**Today's Progress:** Learned more about CSS grid, restructured HTML to align everything on my Books page, made images zoom on hover in devices that use a cursor, and edited all files for better human viewing the night of Day 6. Today, learned more about grid, reordered Books page for mobile using CSS, changed font style, and readjusted measurements for all devices.
+
+**Thoughts:** I feel awesome now that I finally put my vision into reality. The only downside is wondering whether or not my code has proper design. I feel that there is too much repetition and that all the files are unnecessarily complicated.
+
+**Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
