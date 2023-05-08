@@ -62,7 +62,7 @@
 
 ##Day 8: May 8, 2023
 
-<img alt="My homepage on Codepen" target="_blank" src="https://ibb.co/pfCFPgP">
+<img alt="My homepage on Codepen" target="_blank" src="https://i.ibb.co/Mcq0hbh/Capture.jpg">
 
 **Today's Progress:** I began merging the CSS of my Books page into the CSS of my homepage.
 
