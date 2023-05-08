@@ -62,7 +62,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-###Day 8: May 8, 2023
+### Day 8: May 8, 2023
 
 <img alt="My homepage on Codepen" target="_blank" src="https://i.ibb.co/Mcq0hbh/Capture.jpg">
 
