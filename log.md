@@ -68,7 +68,7 @@
 
 **Thoughts:** I almost gave up and decided to just keep two CSS files, but not having only one CSS file just doesn't feel neat. So I pushed on and so far, the two are merging well. By the way, I just learned a better way to design this log from <a href="https://www.freecodecamp.org/news/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9/">Joe Warren</a>. I will try to edit this log and improve it in the following days. I am starting today and I am sharing the image below as a marker of how my this log looks today, before I begin editing it.
 
-<img alt="My original log" target="_blank" src="https://ibb.co/DLzbtx7">
+<img alt="My original log" target="_blank" src="https://i.ibb.co/25W6yDj/2.jpg">
 
 **Link(s) to work:**
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
