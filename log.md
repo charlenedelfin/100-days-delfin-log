@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+[7](#day-7)
+
 ### Day 1: May 1, 2023
 
 **Today's Progress**: Learned how to fork a GitHub repo without using a CLI, updated CSS of the Writing page of my website, added images of my books, and grouped files into folders in GitHub repo of my website (learned how to add folders into my repo in the process).
