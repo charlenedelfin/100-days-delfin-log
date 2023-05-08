@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-[5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023)
+[5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023)
 
 ### Day 1: May 1, 2023
 
