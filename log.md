@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-[6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023)
+[5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023)
 
 ### Day 1: May 1, 2023
 
@@ -38,7 +38,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-## Day 5: May 5, 2023
+### Day 5: May 5, 2023
 
 **Today's Progress:** Tried using CSS grid to align the buttons in the Books page, failed, and returned to flexbox. Learned about grid in the process. Spent remaining time figuring out why main and footer were overlapping. Changed background colors of flexboxes for clearer view of what might be happening.
 
@@ -46,7 +46,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-## Day 6: May 6, 2023
+### Day 6: May 6, 2023
 
 **Today's Progress:** Resorted to using a blank doc as a sort of duck debugger for mapping out the logic of my code. Figured out why main and footer were overlapping. Part of main was a flexbox within an element, and footer was in a flexbox with a section from main. Footer was following a measurement that had nothing to do with the display case. Fixed it by adding a gap between items of the outer flexbox. Removed background colors. Moved page intro from behind the navbar by increasing margins. Started working on aligning the buttons again.
 
@@ -54,7 +54,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-## Day 7: May 7, 2023
+### Day 7: May 7, 2023
 
 **Today's Progress:** Learned more about CSS grid, restructured HTML to align everything on my Books page, made images zoom on hover in devices that use a cursor, and edited all files for better human viewing the night of Day 6. Today, learned more about grid, reordered Books page for mobile using CSS, changed font style, and readjusted measurements for all devices.
 
@@ -62,7 +62,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-##Day 8: May 8, 2023
+###Day 8: May 8, 2023
 
 <img alt="My homepage on Codepen" target="_blank" src="https://i.ibb.co/Mcq0hbh/Capture.jpg">
 
