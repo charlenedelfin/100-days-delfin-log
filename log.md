@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-[7](#day-7)
+[7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023)
 
 ### Day 1: May 1, 2023
 
