@@ -75,3 +75,15 @@
 **Link(s) to work:**
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+### Day 9: May 9, 2023
+
+<img alt="The finished look of my Books page" taget="_blank" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img1.JPG">
+
+**Today's Progress:** I finally merged the CSS of my Books page and my homepage!
+
+**Thoughts:** I am having a headache today and I am a bit sleepless. Still, when it is code, I'm just hooked. :) By the way, I'm also developing a table of contents for this log. You can find the TOC at the top of this log. I do it outside of my 100DaysOfCode hours, though.
+
+**Link(s) to work:**
+1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
+2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
