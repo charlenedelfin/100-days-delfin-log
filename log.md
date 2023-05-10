@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
-[2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023)
+Table of Contents
+[Day 2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [Day 3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [Day 4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [Day 5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [Day 6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [Day 7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [Day 8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [Day 9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023)
 
 ### Day 1: May 1, 2023
 
@@ -78,7 +79,7 @@
 
 ### Day 9: May 9, 2023
 
-<img alt="The finished look of my Books page" taget="_blank" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img1.JPG">
+<img alt="The finished look of my Books page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img1.JPG">
 
 **Today's Progress:** I finally merged the CSS of my Books page and my homepage!
 
@@ -87,3 +88,15 @@
 **Link(s) to work:**
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+### Day 10: May 10, 2023
+
+<img alt="The finished look of my Poems page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img2.JPG">
+
+**Today's Progress:** Having already set the measurements for the rest of the website, whatever followed next was fast. I added and finished a Poems page, and then I started working on my Programming page. I had to pause my 100DaysOfCode timer to create web content and gather images.
+
+**Thoughts:** I can't believe how quickly the coding today went. It is even faster than drag-and-drop on Wix! All that I need to do now is to write the web content for my Programming page.
+
+**Link(s) to work:**
+1. [My Poems page](https://codepen.io/charlenedelfin/full/dygmELm)
+2. [My Programming page](https://codepen.io/charlenedelfin/pen/rNZPwow)
