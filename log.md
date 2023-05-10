@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 Table of Contents
-[Day 2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [Day 3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [Day 4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [Day 5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [Day 6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [Day 7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [Day 8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [Day 9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023)
+[Day 2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) * [Day 3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) * [Day 4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) * [Day 5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) * [Day 6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) * [Day 7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) * [Day 8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) * [Day 9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) * [Day 10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023)
 
 ### Day 1: May 1, 2023
 
