@@ -100,3 +100,15 @@ Table of Contents
 **Link(s) to work:**
 1. [My Poems page](https://codepen.io/charlenedelfin/full/dygmELm)
 2. [My Programming page](https://codepen.io/charlenedelfin/pen/rNZPwow)
+
+### Day 11: May 11, 2023
+
+<img alt="The new files in my repo" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img/img3.JPG">
+
+**Today's Progress:** I finished the web content for my Programming page and started uploading the new files to my repo. The live version of my site is now 50% up-to-date. I started working on my Shop page, adding product images to my repo and unhiding products Zazzle had hidden.
+
+**Thoughts:** Even though it has been the plan, I was scared to add the new files to my repo. Because I feared destroying my website forever. There are still errors I need to fix, but I'm relieved it worked!
+
+**Link(s) to work:**
+1. [Live version of my website](https://charlenedelfin.github.io)
+2. [My upcoming Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
