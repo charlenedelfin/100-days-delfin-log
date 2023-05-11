@@ -1,7 +1,8 @@
 # 100 Days Of Code - Log
 
 Table of Contents
-[Day 2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) * [Day 3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) * [Day 4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) * [Day 5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) * [Day 6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) * [Day 7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) * [Day 8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) * [Day 9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) * [Day 10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023)
+
+[2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) [10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023) [11](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023)
 
 ### Day 1: May 1, 2023
 
@@ -103,7 +104,7 @@ Table of Contents
 
 ### Day 11: May 11, 2023
 
-<img alt="The new files in my repo" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img/img3.JPG">
+<img alt="The new files in my repo" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img3.JPG">
 
 **Today's Progress:** I finished the web content for my Programming page and started uploading the new files to my repo. The live version of my site is now 50% up-to-date. I started working on my Shop page, adding product images to my repo and unhiding products Zazzle had hidden.
 
