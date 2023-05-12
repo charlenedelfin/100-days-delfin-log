@@ -2,7 +2,7 @@
 
 Table of Contents
 
-[2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) [10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023) [11](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023)
+[2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) [10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023) [11](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [12](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023)
 
 ### Day 1: May 1, 2023
 
@@ -122,4 +122,4 @@ Table of Contents
 
 **Thoughts:** I do not know why Zazzle is taking too long to unhide my products. I also do not know why the lines of code in my books.html file can't get aligned. I'm trying to have neat code. By the way, I changed my GitHub appearance to dark so that I wouldn't be squinting at my screen all the time.
 
-<img alt="GitHub dark mode" src="https://github.com/charlenedelfin/100-days-delfin-log/blog/master/img/img4.JPG">
+<img alt="GitHub dark mode" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img4.JPG">
