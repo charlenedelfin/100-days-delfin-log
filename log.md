@@ -113,3 +113,13 @@ Table of Contents
 **Link(s) to work:**
 1. [Live version of my website](https://charlenedelfin.github.io)
 2. [My upcoming Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
+
+### Day 12: May 12, 2023
+
+<img alt="Current look of my Shop page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img5.JPG">
+
+**Today's Progress:** I continued working on my Shop page, but the next step was to write web content for it and that wasn't coding. So I proceeded to fixing errors on my live site and editing files in my repo to get enough coding done today.
+
+**Thoughts:** I do not know why Zazzle is taking too long to unhide my products. I also do not know why the lines of code in my books.html file can't get aligned. I'm trying to have neat code. By the way, I changed my GitHub appearance to dark so that I wouldn't be squinting at my screen all the time.
+
+<img alt="GitHub dark mode" src="https://github.com/charlenedelfin/100-days-delfin-log/blog/master/img/img4.JPG">
