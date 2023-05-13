@@ -123,3 +123,22 @@ Table of Contents
 **Thoughts:** I do not know why Zazzle is taking too long to unhide my products. I also do not know why the lines of code in my books.html file can't get aligned. I'm trying to have neat code. By the way, I changed my GitHub appearance to dark so that I wouldn't be squinting at my screen all the time.
 
 <img alt="GitHub dark mode" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img4.JPG">
+
+**Link(s) to work:**
+1. [My Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
+2. [My repo](https://github.com/charlenedelfin/charlenedelfin.github.io)
+
+### Day 13: May 13, 2023
+
+<img alt="My Contact page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img7.JPG">
+<img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blog/master/img/img6.JPG">
+
+**Today's Progress:** I returned to Codepen on the night of Day 14 to finish my Shop page. Today, I finished my Contact page, edited my repo files, and fixed errors in the mobile view. I also resumed studying JavaScript. I also followed <a target="_blank" href="https://twitter.com/wydman_dev/status/1657091723820949524">Adrian Wydmanski's</a> advice.
+
+<img alt="Part of my CSS file that fixes the item-on-top-of-header problem" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img8.JPG">
+
+**Thoughts:** I still don't know what to write in my About page. It's hard to write bios because whatever I write today could be irrelevant in a few years.
+
+**Link(s) to work:**
+1. [Up-to-date version of my site](https://charlenedelfin.github.io)
+2. [My freeCodeCamp progress](https://www.freecodecamp.org/charlenedelfin)
