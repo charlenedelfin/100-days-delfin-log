@@ -2,7 +2,7 @@
 
 Table of Contents
 
-[2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) [10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023) [11](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [12](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023)
+[2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) [10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023) [11](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [12](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [13](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-13-may-13-2023)
 
 ### Day 1: May 1, 2023
 
@@ -131,7 +131,7 @@ Table of Contents
 ### Day 13: May 13, 2023
 
 <img alt="My Contact page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img7.JPG">
-<img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blog/master/img/img6.JPG">
+<img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img6.JPG">
 
 **Today's Progress:** I returned to Codepen on the night of Day 14 to finish my Shop page. Today, I finished my Contact page, edited my repo files, and fixed errors in the mobile view. I also resumed studying JavaScript. I also followed <a target="_blank" href="https://twitter.com/wydman_dev/status/1657091723820949524">Adrian Wydmanski's</a> advice.
 
