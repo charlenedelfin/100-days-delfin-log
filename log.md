@@ -142,3 +142,13 @@ Table of Contents
 **Link(s) to work:**
 1. [Up-to-date version of my site](https://charlenedelfin.github.io)
 2. [My freeCodeCamp progress](https://www.freecodecamp.org/charlenedelfin)
+
+### Day 14: May 14, 2023
+
+<img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img9.JPG">
+
+**Today's Progress:** I learned how to concatenate variables to form strings, the different ways to manipulate different types of arrays, how to create functions in JavaScript, and how to create a function that outputs the sum of two number arguments.
+
+**Thoughts:** I'm surprised JavaScript actually sees a difference between data types, because the C programmer in me was starting to get an OCD attack with the way JavaScript seems to mix up the different data types. By the way, this is Day 2 of me not coming up with something to write on my About page.
+
+**Link to work:** [My freeCodeCamp heatmap](https://freecodecamp.org/charlenedelfin)
