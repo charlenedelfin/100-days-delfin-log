@@ -166,7 +166,7 @@ Table of Contents
 
 ![Image](https://media.tenor.com/GixDtNFQI5AAAAAM/so-excited-dog.gif)
 
-**Link(s) to work:
+**Link(s) to work:**
 1. [My website repo with the new and updated files](https://github.com/charlenedelfin/charlenedelfin.github.io)
 2. [My Blogger widgets repo](https://github.com/charlenedelfin/bloggerwidgets)
 3. [My 7 Cups profile](https://7cups.com/@amiableVision1813)
