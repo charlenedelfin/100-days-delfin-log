@@ -152,3 +152,21 @@ Table of Contents
 **Thoughts:** I'm surprised JavaScript actually sees a difference between data types, because the C programmer in me was starting to get an OCD attack with the way JavaScript seems to mix up the different data types. By the way, this is Day 2 of me not coming up with something to write on my About page.
 
 **Link to work:** [My freeCodeCamp heatmap](https://freecodecamp.org/charlenedelfin)
+
+### Day 15: May 15, 2023
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img12.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img11.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img13.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img10.JPG)
+
+**Today's Progress:** I added a privacy policy to my website, updated the README file, and cited sources in my CSS file. I added my Camp NaNoWriMo 2023 Winner badge to my blog, and added grayscale to all of the HTML widgets. I edited the HTML/CSS of my 7 Cups profile.
+
+**Thoughts:** I feel so tired, but I feel happy about all the things I finished today. I do not know why my 7 Cups profile is not cooperating with most of my code, though. To lighten up the mood, here is a cute dog GIF I tried (and failed) to add to my 7 Cups profile.
+
+![Image](https://media.tenor.com/GixDtNFQI5AAAAAM/so-excited-dog.gif)
+
+**Link(s) to work:
+1. [My website repo with the new and updated files]
+2. [My Blogger widgets repo]
+3. [My 7 Cups profile]
