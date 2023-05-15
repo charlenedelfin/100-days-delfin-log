@@ -164,9 +164,9 @@ Table of Contents
 
 **Thoughts:** I feel so tired, but I feel happy about all the things I finished today. I do not know why my 7 Cups profile is not cooperating with most of my code, though. To lighten up the mood, here is a cute dog GIF I tried (and failed) to add to my 7 Cups profile.
 
-<center>![Image](https://media.tenor.com/GixDtNFQI5AAAAAM/so-excited-dog.gif)</center>
+![Image](https://media.tenor.com/GixDtNFQI5AAAAAM/so-excited-dog.gif)
 
 **Link(s) to work:
-1. [My website repo with the new and updated files]
-2. [My Blogger widgets repo]
-3. [My 7 Cups profile]
+1. [My website repo with the new and updated files](https://github.com/charlenedelfin/charlenedelfin.github.io)
+2. [My Blogger widgets repo](https://github.com/charlenedelfin/bloggerwidgets)
+3. [My 7 Cups profile](https://7cups.com/@amiableVision1813)
