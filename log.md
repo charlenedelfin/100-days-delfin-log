@@ -170,3 +170,13 @@ Table of Contents
 1. [My website repo with the new and updated files](https://github.com/charlenedelfin/charlenedelfin.github.io)
 2. [My Blogger widgets repo](https://github.com/charlenedelfin/bloggerwidgets)
 3. [My 7 Cups profile](https://7cups.com/@amiableVision1813)
+
+### Day 16: May 16, 2023
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img14.JPG)
+
+**Today's Progress:** I returned to GitHub at midnight of Day 15 (or morning of Day 16) to fix the CSS of the privacy policy link in my website and improve the README file of my Blogger widgets repo. Today, I learned all about switch statements in JavaScript on freeCodeCamp.
+
+**Thoughts:** I should be studying JavaScript continuously to properly cook my brain, but my OCD keeps reminding me that the README files of all of my repos need to be improved, I might not make it to the 7 Cups bio designers team because my profile doesn't look the part, my About page is still not done ...
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
