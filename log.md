@@ -180,3 +180,11 @@ Table of Contents
 **Thoughts:** I should be studying JavaScript continuously to properly cook my brain, but my OCD keeps reminding me that the README files of all of my repos need to be improved, I might not make it to the 7 Cups bio designers team because my profile doesn't look the part, my About page is still not done ...
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+### Day 17: May 17, 2023
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img15.JPG)
+
+**Today's Progress:** I learned to use bracket notation as much as possible instead of just dot notation, learned how to build and work with JavaScript objects, and met the JavaScript cousins of the infamous C villains called "loops" and "recursion". Being JavaScript doesn't make them any friendlier.
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
