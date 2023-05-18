@@ -187,4 +187,6 @@ Table of Contents
 
 **Today's Progress:** I learned to use bracket notation as much as possible instead of just dot notation, learned how to build and work with JavaScript objects, and met the JavaScript cousins of the infamous C villains called "loops" and "recursion". Being JavaScript doesn't make them any friendlier.
 
+**Thoughts:** I wonder why freeCodeCamp accepts my solution as correct when I use bracket notation, and rejects it as incorrect when I use dot notation. There must be something wrong in my understanding of dot notation.
+
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
