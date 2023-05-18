@@ -190,3 +190,19 @@ Table of Contents
 **Thoughts:** I wonder why freeCodeCamp accepts my solution as correct when I use bracket notation, and rejects it as incorrect when I use dot notation. There must be something wrong in my understanding of dot notation.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+### Day 18: May 18, 2023
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img17.JPG)
+
+**Today's Progress:** I learned about the space-saving, time-saving conditional (ternary) operators. Then I tried to get used to recursion.
+
+**Thoughts:** The photo above is me trying to work out the logic of freeCodeCamp's recursion --- and failing (I used .pop() instead of .unshift()). The photo below is me using <a target="_blank" href="https://playcode.io">Playcode</a> to try a technique taught by <a target="_blank" href="https://towardsdatascience.com/train-your-mind-to-think-recursively-in-5-steps-8f85c0e0eb81">Sara A. Metwalli</a>.
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img16.JPG)
+
+By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/detail/hacker-vision/fommidcneendjonelhhhkmoekeicedej">Hacker Vision</a>. That's why freeCodeCamp above is black. I've been using it since 2013, it helps me work on a computer for many hours.
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img18.JPG)
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
