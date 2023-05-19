@@ -211,7 +211,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img19.JPG)
 
-**Today's Progress:** I finished the Basic JavaScript of freeCodeCamp. I finally created my own recursion, the first recursion I made in my whole life that actually worked.
+**Today's Progress:** I finished the Basic JavaScript of freeCodeCamp.
 
 **Thoughts:** Maybe I'm still confused, but recursion appears to not follow the usual order of execution of code. It doesn't even appear to follow the order of loops. It's like the lowest line of code gets executed before the higher lines of code. I might still be confused.
 
