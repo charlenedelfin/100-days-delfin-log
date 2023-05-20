@@ -219,7 +219,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 ### Day 20: May 20, 2023
 
-![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img19.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img20.JPG)
 
 **Today's Progress:** I learned how to create a function that returns the sum of each of its arguments added together with the rest parameter, copy an array to another array without using a loop, and use destructuring assignment for objects and arays.
 
