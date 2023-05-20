@@ -216,3 +216,13 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 **Thoughts:** Maybe I'm still confused, but recursion appears to not follow the usual order of execution of code. It doesn't even appear to follow the order of loops. It's like the lowest line of code gets executed before the higher lines of code. I might still be confused.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+### Day 20: May 20, 2023
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img19.JPT)
+
+**Today's Progress:** I learned how to create a function that returns the sum of each of its arguments added together with the rest parameter, copy an array to another array without using a loop, and use destructuring assignment for objects and arays.
+
+**Thoughts:** I should remember that the apostrophe is not the backtick. *saves to permanent memory*
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
