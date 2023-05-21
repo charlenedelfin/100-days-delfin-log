@@ -226,3 +226,13 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 **Thoughts:** I should remember that the apostrophe is not the backtick. *saves to permanent memory*
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+### Day 21: May 21, 2023
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img21.JPG)
+
+**Today's Progress:** I finished the ES6 part of the JavaScript Algorithms and Data Structures of freeCodeCamp and started the Regular Expressions part. I am finally getting to the part where the course teaches how to use JavaScript on a website.
+
+**Thoughts:** I have been worried that this course would never mention how to apply what I'm studying in a way that would help me finish an actual, complete software and that it would all be just theory. I got excited today when I found out my worries aren't true. :)
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
