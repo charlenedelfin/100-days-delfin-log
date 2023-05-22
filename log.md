@@ -236,3 +236,17 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 **Thoughts:** I have been worried that this course would never mention how to apply what I'm studying in a way that would help me finish an actual, complete software and that it would all be just theory. I got excited today when I found out my worries aren't correct. :)
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+### Day 22: May 22, 2023
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img22.JPG)
+
+**Today's Progress:** I learned about all forms of matching in JavaScript, each of which are achieved only through a single character. I also learned about extracting matches, selecting characters that aren't matches, and the global flag.
+
+**Thoughts:** I use WordPad as a duck debugger. Its purpose is to help me figure out the logic of programs, but I often end up typing random things that have no connection with anything. Sometimes, I type out my frustrations. Today, I typed, "WHY IS MATCHING STRINGS WITH JAVASCRIPT SO EASY?!!!"
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img23.JPG)
+
+It was super hard with C. In fact, student sentiments about transitioning from C in CS50x is pretty common. <a target="_blank" href="https://www.reddit.com/r/cs50/comments/m3gkpe/when_you_see_david_do_speller_in_like_15_lines_of/">This</a> is one of them. I'm still stuck in Speller. Whatta predicament ... 😶
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
