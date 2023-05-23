@@ -289,7 +289,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img23.JPG)
 
-It was super hard with C. In fact, student sentiments about transitioning from C in <a target="_blank" href="https://cs50.harvard.edu/x/2023/">CS50x</a> is pretty common. <a target="_blank" href="https://www.reddit.com/r/cs50/comments/m3gkpe/when_you_see_david_do_speller_in_like_15_lines_of/">This</a> is one of them. I'm still stuck in Speller. Whatta predicament ... 😶
+It was super hard with C. In fact, student sentiments about transitioning from C in <a target="_blank" href="https://cs50.harvard.edu/x/2023/">CS50x</a> is pretty common. <a target="_blank" href="https://www.reddit.com/r/cs50/comments/m3gkpe/when_you_see_david_do_speller_in_like_15_lines_of/">This</a> is one of them. I'm still stuck in <a target="_blank" href="https://cs50.harvard.edu/x/2023/psets/5/speller/">Speller</a>. Whatta predicament ... 😶
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
