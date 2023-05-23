@@ -250,3 +250,13 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 It was super hard with C. In fact, student sentiments about transitioning from C in <a target="_blank" href="https://cs50.harvard.edu/x/2023/">CS50x</a> is pretty common. <a target="_blank" href="https://www.reddit.com/r/cs50/comments/m3gkpe/when_you_see_david_do_speller_in_like_15_lines_of/">This</a> is one of them. I'm still stuck in Speller. Whatta predicament ... 😶
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+### Day 23: May 23, 2023
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img23.JPG)
+
+**Today's Progress:** Today, I learned to not underestimate regex just because they are small, alone, and are mostly neither letters nor numbers. The characters are actually meant to be grouped together in particular patterns depending on what needs to be done with the program.
+
+**Thoughts:** I didn't expect the characters were supposed to be used in groups. It's like hieroglyphics. My eyeballs could almost spin around and around just staring at each character and trying to remember what it means and how it relates to the other characters.
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
