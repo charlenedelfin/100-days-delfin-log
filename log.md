@@ -14,6 +14,8 @@ Navigation
 1. [Upcoming version of my Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 2. [GitHub repo of the live version of my website](https://github.com/charlenedelfin/charlenedelfin.github.io)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 2: May 2, 2023
 
 **Today's Progress**: Returned to GitHub on night of Day 1 to add code to verify website ownership on Google Search Console. This afternoon, used flexbox to organize the photos of my books on my Writing page.
@@ -21,6 +23,8 @@ Navigation
 **Thoughts:** This is the first time I'm using Google Search Console. I do not like the way my Writing page appears at the moment, it triggers my obsessive-compulsive tendencies. It really does. I got lost in my own code today, though. Because I forgot to comment my CSS last March, and because I use generic values for my id attributes.
 
 **Link to work:** [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 3: May 3, 2023
 
@@ -32,6 +36,8 @@ Navigation
 1. [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 2. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 4: May 4, 2023
 
 **Today's Progress:** Returned to Codepen the night of Day 3 to give my website a more responsive design. Also renamed its Writing page to "Books". Today, customized the measurements of the product div elements and designed the buttons to match the overall site design.
@@ -39,6 +45,8 @@ Navigation
 **Thoughts:** I feel frustrated with how my buttons are not aligned.
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 5: May 5, 2023
 
@@ -48,6 +56,8 @@ Navigation
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 6: May 6, 2023
 
 **Today's Progress:** Resorted to using a blank doc as a sort of duck debugger for mapping out the logic of my code. Figured out why main and footer were overlapping. Part of main was a flexbox within an element, and footer was in a flexbox with a section from main. Footer was following a measurement that had nothing to do with the display case. Fixed it by adding a gap between items of the outer flexbox. Removed background colors. Moved page intro from behind the navbar by increasing margins. Started working on aligning the buttons again.
@@ -56,6 +66,8 @@ Navigation
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 7: May 7, 2023
 
 **Today's Progress:** Learned more about CSS grid, restructured HTML to align everything on my Books page, made images zoom on hover in devices that use a cursor, and edited all files for better human viewing the night of Day 6. Today, learned more about grid, reordered Books page for mobile using CSS, changed font style, and readjusted measurements for all devices.
@@ -63,6 +75,8 @@ Navigation
 **Thoughts:** I feel awesome now that I finally put my vision into reality. The only downside is wondering whether or not my code has proper design. I feel that there is too much repetition and that all the files are unnecessarily complicated.
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 8: May 8, 2023
 
@@ -78,6 +92,8 @@ Navigation
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 9: May 9, 2023
 
 <img alt="The finished look of my Books page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img1.JPG">
@@ -89,6 +105,8 @@ Navigation
 **Link(s) to work:**
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 10: May 10, 2023
 
@@ -102,6 +120,8 @@ Navigation
 1. [My Poems page](https://codepen.io/charlenedelfin/full/dygmELm)
 2. [My Programming page](https://codepen.io/charlenedelfin/pen/rNZPwow)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 11: May 11, 2023
 
 <img alt="The new files in my repo" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img3.JPG">
@@ -113,6 +133,8 @@ Navigation
 **Link(s) to work:**
 1. [Live version of my website](https://charlenedelfin.github.io)
 2. [My upcoming Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 12: May 12, 2023
 
@@ -127,6 +149,8 @@ Navigation
 **Link(s) to work:**
 1. [My Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
 2. [My repo](https://github.com/charlenedelfin/charlenedelfin.github.io)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 13: May 13, 2023
 
@@ -143,6 +167,8 @@ Navigation
 1. [Up-to-date version of my site](https://charlenedelfin.github.io)
 2. [My freeCodeCamp progress](https://www.freecodecamp.org/charlenedelfin)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 14: May 14, 2023
 
 <img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img9.JPG">
@@ -152,6 +178,8 @@ Navigation
 **Thoughts:** I'm surprised JavaScript actually sees a difference between data types, because the C programmer in me was starting to get an OCD attack with the way JavaScript seems to mix up the different data types. By the way, this is Day 2 of me not coming up with something to write on my About page.
 
 **Link to work:** [My freeCodeCamp heatmap](https://freecodecamp.org/charlenedelfin)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 15: May 15, 2023
 
@@ -171,6 +199,8 @@ Navigation
 2. [My Blogger widgets repo](https://github.com/charlenedelfin/bloggerwidgets)
 3. [My 7 Cups profile](https://7cups.com/@amiableVision1813)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 16: May 16, 2023
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img14.JPG)
@@ -181,6 +211,8 @@ Navigation
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 17: May 17, 2023
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img15.JPG)
@@ -190,6 +222,8 @@ Navigation
 **Thoughts:** I wonder why freeCodeCamp accepts my solution as correct when I use bracket notation, and rejects it as incorrect when I use dot notation. There must be something wrong in my understanding of dot notation.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 18: May 18, 2023
 
@@ -207,6 +241,8 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 19: May 19, 2023
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img19.JPG)
@@ -216,6 +252,8 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 **Thoughts:** Maybe I'm still confused, but recursion appears to not follow the usual order of execution of code. It doesn't even appear to follow the order of loops. It's like the lowest line of code gets executed before the higher lines of code. I might still be confused.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 20: May 20, 2023
 
@@ -227,6 +265,8 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 21: May 21, 2023
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img21.JPG)
@@ -236,6 +276,8 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 **Thoughts:** I have been worried that this course would never mention how to apply what I'm studying in a way that would help me finish an actual, complete software and that it would all be just theory. I got excited today when I found out my worries aren't correct. :)
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
 ### Day 22: May 22, 2023
 
@@ -251,6 +293,8 @@ It was super hard with C. In fact, student sentiments about transitioning from C
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+
 ### Day 23: May 23, 2023
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img24.JPG)
@@ -260,3 +304,5 @@ It was super hard with C. In fact, student sentiments about transitioning from C
 **Thoughts:** I didn't expect the characters were supposed to be used in groups. It's like hieroglyphics. My eyeballs could almost spin around and around just staring at each character and trying to remember what it means and how it relates to the other characters.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
