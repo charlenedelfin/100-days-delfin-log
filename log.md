@@ -4,7 +4,7 @@ Navigation
 
 [2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) [10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023) [11](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [12](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [13](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-13-may-13-2023) [14](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-14-may-14-2023) [15](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-15-may-15-2023) [16](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-16-may-16-2023) [17](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-17-may-17-2023) [18](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-18-may-18-2023) [19](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-19-may-19-2023) [20](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-20-may-20-2023) [21](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-21-may-21-2023) [22](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-22-may-22-2023) [23](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-23-may-23-2023) [24](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-24-may-24-2023)
 
-### Day 1: May 1, 2023
+<h2 align="center">Day 1: May 1, 2023</h2>
 
 **Today's Progress**: Learned how to fork a GitHub repo without using a CLI, updated CSS of the Writing page of my website, added images of my books, and grouped files into folders in GitHub repo of my website (learned how to add folders into my repo in the process).
 
@@ -16,7 +16,7 @@ Navigation
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 2: May 2, 2023
+<h2 align="center">Day 2: May 2, 2023</h2>
 
 **Today's Progress**: Returned to GitHub on night of Day 1 to add code to verify website ownership on Google Search Console. This afternoon, used flexbox to organize the photos of my books on my Writing page.
 
@@ -26,7 +26,7 @@ Navigation
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 3: May 3, 2023
+<h2 align="center">Day 3: May 3, 2023</h2>
 
 **Today's Progress:** Commented my CSS, merged the CSS of my homepage and Writing page, fixed some errors, decided to apply most of my CSS to the whole website for consistency, and organized the contents of my CSS file from "sitewide", to "per-page", and to "per screen". (CSS file does not contain those specific words, but it's in this organization.)
 
