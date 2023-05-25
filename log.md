@@ -2,7 +2,7 @@
 
 <img src="https://pixabay.com/get/g63a917b450e7b4102642d3f078541d43cea225608da0b31a84460e0241bfaf5fe580990325de4764509df9d3112ab6873795e8a80629893e505e31a64864e129ae674d82a66edb67ea1bd3079994943d_1280.jpg">
 
-<p align="center" id="top">Jump to Day [number]</p>
+<p align="center" id="top">Jump to Day [number]:</p>
 
 <div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a></div>
 
