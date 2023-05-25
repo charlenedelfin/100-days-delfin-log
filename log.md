@@ -94,7 +94,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 9: May 9, 2023
+<h2 align="center">Day 9: May 9, 2023</h2>
 
 <img alt="The finished look of my Books page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img1.JPG">
 
@@ -108,7 +108,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 10: May 10, 2023
+<h2 align="center">Day 10: May 10, 2023</h2>
 
 <img alt="The finished look of my Poems page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img2.JPG">
 
@@ -122,7 +122,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 11: May 11, 2023
+<h2 align="center">Day 11: May 11, 2023</h2>
 
 <img alt="The new files in my repo" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img3.JPG">
 
@@ -136,7 +136,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 12: May 12, 2023
+<h2 align="center">Day 12: May 12, 2023</h2>
 
 <img alt="Current look of my Shop page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img5.JPG">
 
@@ -152,7 +152,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 13: May 13, 2023
+<h2 align="center">Day 13: May 13, 2023</h2>
 
 <img alt="My Contact page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img7.JPG">
 <img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img6.JPG">
@@ -169,7 +169,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 14: May 14, 2023
+<h2 align="center">Day 14: May 14, 2023</h2>
 
 <img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img9.JPG">
 
@@ -181,7 +181,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 15: May 15, 2023
+<h2 align="center">Day 15: May 15, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img12.JPG)
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img11.JPG)
@@ -201,7 +201,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 16: May 16, 2023
+<h2 align="center">Day 16: May 16, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img14.JPG)
 
@@ -213,7 +213,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 17: May 17, 2023
+<h2 align="center">Day 17: May 17, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img15.JPG)
 
@@ -225,7 +225,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 18: May 18, 2023
+<h2 align="center">Day 18: May 18, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img17.JPG)
 
@@ -243,7 +243,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 19: May 19, 2023
+<h2 align="center">Day 19: May 19, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img19.JPG)
 
@@ -255,7 +255,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 20: May 20, 2023
+<h2 align="center">Day 20: May 20, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img20.JPG)
 
@@ -267,7 +267,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 21: May 21, 2023
+<h2 align="center">Day 21: May 21, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img21.JPG)
 
@@ -279,7 +279,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 22: May 22, 2023
+<h2 align="center">Day 22: May 22, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img22.JPG)
 
@@ -295,7 +295,7 @@ It was super hard with C. In fact, student sentiments about transitioning from C
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 23: May 23, 2023
+<h2 align="center">Day 23: May 23, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img24.JPG)
 
@@ -307,7 +307,7 @@ It was super hard with C. In fact, student sentiments about transitioning from C
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-### Day 24: May 24, 2023
+<h2 align="center">Day 24: May 24, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img25.JPG)
 
