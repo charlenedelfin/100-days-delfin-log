@@ -24,7 +24,7 @@
 
 **Link to work:** [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="3">Day 3: May 3, 2023</h2>
 
@@ -36,7 +36,7 @@
 1. [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 2. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="4">Day 4: May 4, 2023</h2>
 
@@ -46,7 +46,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="5">Day 5: May 5, 2023</h2>
 
@@ -56,7 +56,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="6">Day 6: May 6, 2023</h2>
 
@@ -66,7 +66,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="7">Day 7: May 7, 2023</h2>
 
@@ -76,7 +76,7 @@
 
 **Link to work:** [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="8">Day 8: May 8, 2023</h2>
 
@@ -92,7 +92,7 @@
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="9">Day 9: May 9, 2023</h2>
 
@@ -106,7 +106,7 @@
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="10">Day 10: May 10, 2023</h2>
 
@@ -120,7 +120,7 @@
 1. [My Poems page](https://codepen.io/charlenedelfin/full/dygmELm)
 2. [My Programming page](https://codepen.io/charlenedelfin/pen/rNZPwow)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="11">Day 11: May 11, 2023</h2>
 
@@ -134,7 +134,7 @@
 1. [Live version of my website](https://charlenedelfin.github.io)
 2. [My upcoming Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="12">Day 12: May 12, 2023</h2>
 
@@ -150,7 +150,7 @@
 1. [My Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
 2. [My repo](https://github.com/charlenedelfin/charlenedelfin.github.io)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="13">Day 13: May 13, 2023</h2>
 
@@ -167,7 +167,7 @@
 1. [Up-to-date version of my site](https://charlenedelfin.github.io)
 2. [My freeCodeCamp progress](https://www.freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="14">Day 14: May 14, 2023</h2>
 
@@ -179,7 +179,7 @@
 
 **Link to work:** [My freeCodeCamp heatmap](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="15">Day 15: May 15, 2023</h2>
 
@@ -199,7 +199,7 @@
 2. [My Blogger widgets repo](https://github.com/charlenedelfin/bloggerwidgets)
 3. [My 7 Cups profile](https://7cups.com/@amiableVision1813)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="16">Day 16: May 16, 2023</h2>
 
@@ -211,7 +211,7 @@
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="17">Day 17: May 17, 2023</h2>
 
@@ -223,7 +223,7 @@
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="18">Day 18: May 18, 2023</h2>
 
@@ -241,7 +241,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="19">Day 19: May 19, 2023</h2>
 
@@ -253,7 +253,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="20">Day 20: May 20, 2023</h2>
 
@@ -265,7 +265,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="21">Day 21: May 21, 2023</h2>
 
@@ -277,7 +277,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="22">Day 22: May 22, 2023</h2>
 
@@ -293,7 +293,7 @@ It was super hard with C. In fact, student sentiments about transitioning from C
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="23">Day 23: May 23, 2023</h2>
 
@@ -305,7 +305,7 @@ It was super hard with C. In fact, student sentiments about transitioning from C
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="24">Day 24: May 24, 2023</h2>
 
@@ -321,7 +321,7 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
 
 <h2 align="center" id="25">Day 25: May 25, 2023</h2>
 
@@ -333,4 +333,4 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
-[Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
+<a href="#top">Back to top</a>
