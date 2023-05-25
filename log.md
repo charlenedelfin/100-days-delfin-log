@@ -1,6 +1,6 @@
 <h1 align="center">Charlene Delfin in 100 Days of Code</h1>
 
-<img src="https://cdn.pixabay.com/photo/2019/06/17/19/48/source-4280758_1280.jpg" />
+<img src="(https://pixabay.com/photos/source-code-software-computer-4280758/)">
 
 <p align="center" id="top">Jump to Day [number]</p>
 
