@@ -3,6 +3,9 @@
 <p align="center">Navigation</p>
 
 [2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) [10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023) [11](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [12](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [13](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-13-may-13-2023) [14](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-14-may-14-2023) [15](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-15-may-15-2023) [16](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-16-may-16-2023) [17](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-17-may-17-2023) [18](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-18-may-18-2023) [19](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-19-may-19-2023) [20](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-20-may-20-2023) [21](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-21-may-21-2023) [22](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-22-may-22-2023) [23](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-23-may-23-2023) [24](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-24-may-24-2023) [25](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-25-may-25-2023)
+<div align="center">
+  <a href="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-25-may-25-2023">25</a>
+</div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -10,7 +13,7 @@
 
 **Thoughts:** It was daunting to return to working on my website after almost a whole month, but now I am starting to regain my focus on it. Life would be easier if I would use a CLI, but I am avoiding because it only means I would have to install programs in my computer. I do not feel very confident about the memory of my computer yet. The memory looks small.
 
-**Link(s) to work:**
+**Links to work:**
 1. [Upcoming version of my Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 2. [GitHub repo of the live version of my website](https://github.com/charlenedelfin/charlenedelfin.github.io)
 
@@ -32,7 +35,7 @@
 
 **Thoughts:** I'm more focused on coding today.
 
-**Link(s) to work:**
+**Links to work:**
 1. [My Writing page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 2. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 
@@ -80,15 +83,15 @@
 
 <h2 align="center">Day 8: May 8, 2023</h2>
 
-<img alt="My homepage on Codepen" target="_blank" src="https://i.ibb.co/Mcq0hbh/Capture.jpg">
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img29.JPG)
 
 **Today's Progress:** I began merging the CSS of my Books page into the CSS of my homepage.
 
 **Thoughts:** I almost gave up and decided to just keep two CSS files, but not having only one CSS file just doesn't feel neat. So I pushed on and so far, the two are merging well. By the way, I just learned a better way to design this log from <a href="https://www.freecodecamp.org/news/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9/">Joe Warren</a>. I will try to edit this log and improve it in the following days. I am starting today and I am sharing the image below as a marker of how my this log looks today, before I begin editing it.
 
-<img alt="My original log" target="_blank" src="https://i.ibb.co/25W6yDj/2.jpg">
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img28.JPG)
 
-**Link(s) to work:**
+**Links to work:**
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
@@ -102,7 +105,7 @@
 
 **Thoughts:** I am having a headache today and I am a bit sleepless. Still, when it is code, I'm just hooked. :) By the way, I'm also developing a table of contents for this log. You can find the TOC at the top of this log. I do it outside of my 100DaysOfCode hours, though.
 
-**Link(s) to work:**
+**Links to work:**
 1. [My homepage](https://codepen.io/charlenedelfin/pen/YzONqGy)
 2. [My Books page](https://codepen.io/charlenedelfin/pen/XWPOgyg)
 
@@ -116,7 +119,7 @@
 
 **Thoughts:** I can't believe how quickly the coding today went. It is even faster than drag-and-drop on Wix! All that I need to do now is to write the web content for my Programming page.
 
-**Link(s) to work:**
+**Links to work:**
 1. [My Poems page](https://codepen.io/charlenedelfin/full/dygmELm)
 2. [My Programming page](https://codepen.io/charlenedelfin/pen/rNZPwow)
 
@@ -130,7 +133,7 @@
 
 **Thoughts:** Even though it has been the plan, I was scared to add the new files to my repo. Because I feared destroying my website forever. There are still errors I need to fix, but I'm relieved it worked!
 
-**Link(s) to work:**
+**Links to work:**
 1. [Live version of my website](https://charlenedelfin.github.io)
 2. [My upcoming Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
 
@@ -146,7 +149,7 @@
 
 <img alt="GitHub dark mode" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img4.JPG">
 
-**Link(s) to work:**
+**Links to work:**
 1. [My Shop page](https://codepen.io/charlenedelfin/pen/gOdqRqJ)
 2. [My repo](https://github.com/charlenedelfin/charlenedelfin.github.io)
 
@@ -163,7 +166,7 @@
 
 **Thoughts:** I still don't know what to write in my About page. It's hard to write bios because whatever I write today could be irrelevant in a few years.
 
-**Link(s) to work:**
+**Links to work:**
 1. [Up-to-date version of my site](https://charlenedelfin.github.io)
 2. [My freeCodeCamp progress](https://www.freecodecamp.org/charlenedelfin)
 
@@ -194,7 +197,7 @@
 
 ![Image](https://media.tenor.com/GixDtNFQI5AAAAAM/so-excited-dog.gif)
 
-**Link(s) to work:**
+**Links to work:**
 1. [My website repo with the new and updated files](https://github.com/charlenedelfin/charlenedelfin.github.io)
 2. [My Blogger widgets repo](https://github.com/charlenedelfin/bloggerwidgets)
 3. [My 7 Cups profile](https://7cups.com/@amiableVision1813)
@@ -261,7 +264,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 **Today's Progress:** I learned how to create a function that returns the sum of each of its arguments added together with the rest parameter, copy an array to another array without using a loop, and use destructuring assignment for objects and arays.
 
-**Thoughts:** I should remember that the apostrophe is not the backtick. *saves to permanent memory*
+**Thoughts:** I should remember that the apostrophe is not the backtick. \*saves to permanent memory\*
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
@@ -273,7 +276,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 **Today's Progress:** I finished the ES6 part of the JavaScript Algorithms and Data Structures of freeCodeCamp and started the Regular Expressions part. I am finally getting to the part where the course teaches how to use JavaScript on a website.
 
-**Thoughts:** I have been worried that this course would never mention how to apply what I'm studying in a way that would help me finish an actual, complete software and that it would all be just theory. I got excited today when I found out my worries aren't correct. :)
+**Thoughts:** I have been worried that this course would never mention how to apply what I'm studying in a way that would help me finish an actual, complete software and that it would all be just theory. I got excited today when I found out my worries aren't correct. 😊
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
