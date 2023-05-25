@@ -4,7 +4,7 @@
 
 [2](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-2-may-2-2023) [3](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-3-may-3-2023) [4](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-4-may-4-2023) [5](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-5-may-5-2023) [6](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-6-may-6-2023) [7](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-7-may-7-2023) [8](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-8-may-8-2023) [9](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-9-may-9-2023) [10](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-10-may-10-2023) [11](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [12](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-11-may-11-2023) [13](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-13-may-13-2023) [14](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-14-may-14-2023) [15](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-15-may-15-2023) [16](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-16-may-16-2023) [17](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-17-may-17-2023) [18](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-18-may-18-2023) [19](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-19-may-19-2023) [20](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-20-may-20-2023) [21](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-21-may-21-2023) [22](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-22-may-22-2023) [23](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-23-may-23-2023) [24](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-24-may-24-2023) [25](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-25-may-25-2023)
 <div align="center">
-  <a href="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#day-25-may-25-2023">25</a>
+  <a href="#25">25</a>
 </div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
@@ -326,7 +326,7 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 25: May 25, 2023</h2>
+<h2 align="center" id="25">Day 25: May 25, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img27.JPG)
 
