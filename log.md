@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+<h1 align="center">Charlene Delfin in 100 Days of Code</h1>
 
-<p align="center">Navigation</p>
+<p align="center">Jump to Day [number]</p>
 
 <div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a></div>
 
@@ -16,7 +16,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 2: May 2, 2023</h2>
+<h2 align="center" id="2">Day 2: May 2, 2023</h2>
 
 **Today's Progress**: Returned to GitHub on night of Day 1 to add code to verify website ownership on Google Search Console. This afternoon, used flexbox to organize the photos of my books on my Writing page.
 
@@ -26,7 +26,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 3: May 3, 2023</h2>
+<h2 align="center" id="3">Day 3: May 3, 2023</h2>
 
 **Today's Progress:** Commented my CSS, merged the CSS of my homepage and Writing page, fixed some errors, decided to apply most of my CSS to the whole website for consistency, and organized the contents of my CSS file from "sitewide", to "per-page", and to "per screen". (CSS file does not contain those specific words, but it's in this organization.)
 
@@ -38,7 +38,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 4: May 4, 2023</h2>
+<h2 align="center" id="4">Day 4: May 4, 2023</h2>
 
 **Today's Progress:** Returned to Codepen the night of Day 3 to give my website a more responsive design. Also renamed its Writing page to "Books". Today, customized the measurements of the product div elements and designed the buttons to match the overall site design.
 
@@ -48,7 +48,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 5: May 5, 2023</h2>
+<h2 align="center" id="5">Day 5: May 5, 2023</h2>
 
 **Today's Progress:** Tried using CSS grid to align the buttons in the Books page, failed, and returned to flexbox. Learned about grid in the process. Spent remaining time figuring out why main and footer were overlapping. Changed background colors of flexboxes for clearer view of what might be happening.
 
@@ -58,7 +58,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 6: May 6, 2023</h2>
+<h2 align="center" id="6">Day 6: May 6, 2023</h2>
 
 **Today's Progress:** Resorted to using a blank doc as a sort of duck debugger for mapping out the logic of my code. Figured out why main and footer were overlapping. Part of main was a flexbox within an element, and footer was in a flexbox with a section from main. Footer was following a measurement that had nothing to do with the display case. Fixed it by adding a gap between items of the outer flexbox. Removed background colors. Moved page intro from behind the navbar by increasing margins. Started working on aligning the buttons again.
 
@@ -68,7 +68,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 7: May 7, 2023</h2>
+<h2 align="center" id="7">Day 7: May 7, 2023</h2>
 
 **Today's Progress:** Learned more about CSS grid, restructured HTML to align everything on my Books page, made images zoom on hover in devices that use a cursor, and edited all files for better human viewing the night of Day 6. Today, learned more about grid, reordered Books page for mobile using CSS, changed font style, and readjusted measurements for all devices.
 
@@ -78,7 +78,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 8: May 8, 2023</h2>
+<h2 align="center" id="8">Day 8: May 8, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img29.JPG)
 
@@ -94,7 +94,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 9: May 9, 2023</h2>
+<h2 align="center" id="9">Day 9: May 9, 2023</h2>
 
 <img alt="The finished look of my Books page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img1.JPG">
 
@@ -108,7 +108,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 10: May 10, 2023</h2>
+<h2 align="center" id="10">Day 10: May 10, 2023</h2>
 
 <img alt="The finished look of my Poems page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img2.JPG">
 
@@ -122,7 +122,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 11: May 11, 2023</h2>
+<h2 align="center" id="11">Day 11: May 11, 2023</h2>
 
 <img alt="The new files in my repo" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img3.JPG">
 
@@ -136,7 +136,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 12: May 12, 2023</h2>
+<h2 align="center" id="12">Day 12: May 12, 2023</h2>
 
 <img alt="Current look of my Shop page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img5.JPG">
 
@@ -152,7 +152,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 13: May 13, 2023</h2>
+<h2 align="center" id="13">Day 13: May 13, 2023</h2>
 
 <img alt="My Contact page" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img7.JPG">
 <img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img6.JPG">
@@ -169,7 +169,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 14: May 14, 2023</h2>
+<h2 align="center" id="14">Day 14: May 14, 2023</h2>
 
 <img alt="My freeCodeCamp progress" src="https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img9.JPG">
 
@@ -181,7 +181,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 15: May 15, 2023</h2>
+<h2 align="center" id="15">Day 15: May 15, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img12.JPG)
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img11.JPG)
@@ -201,7 +201,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 16: May 16, 2023</h2>
+<h2 align="center" id="16">Day 16: May 16, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img14.JPG)
 
@@ -213,7 +213,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 17: May 17, 2023</h2>
+<h2 align="center" id="17">Day 17: May 17, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img15.JPG)
 
@@ -225,7 +225,7 @@
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 18: May 18, 2023</h2>
+<h2 align="center" id="18">Day 18: May 18, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img17.JPG)
 
@@ -243,7 +243,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 19: May 19, 2023</h2>
+<h2 align="center" id="19">Day 19: May 19, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img19.JPG)
 
@@ -255,7 +255,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 20: May 20, 2023</h2>
+<h2 align="center" id="20">Day 20: May 20, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img20.JPG)
 
@@ -267,7 +267,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 21: May 21, 2023</h2>
+<h2 align="center" id="21">Day 21: May 21, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img21.JPG)
 
@@ -279,7 +279,7 @@ By the way, I use <a target="_blank" href="https://chrome.google.com/webstore/de
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 22: May 22, 2023</h2>
+<h2 align="center" id="22">Day 22: May 22, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img22.JPG)
 
@@ -295,7 +295,7 @@ It was super hard with C. In fact, student sentiments about transitioning from C
 
 [Back to top](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/log.md#100-days-of-code---log)
 
-<h2 align="center">Day 23: May 23, 2023</h2>
+<h2 align="center" id="23">Day 23: May 23, 2023</h2>
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img24.JPG)
 
