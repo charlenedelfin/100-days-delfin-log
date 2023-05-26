@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26</a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -336,3 +336,13 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
 <a href="#top">Back to top</a>
+
+<h2 align="center" id="26">Day 26: May 26, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img30.JPG)
+
+**Today's Progress:** I finished the Basic Data Structures section and continued to Basic Algorithm Scripting, where I get to solve problems using everything I learned so far. In the above image, I'm in the process of writing code for a program that finds the longest word in a sentence. I have learned to use console.log() to check if a part of my program is working, but I'm still working on my regex skills (that's why I have to use console.log() to check if my regex works).
+
+**Thoughts:** I am worried why cosole.log() is printing "1". It's supposed to print "3". Also, I feel like I still think too much in C. I still turn strings into arrays and work with them per character. I should adjust to the differences between C and JavaScript. However, I prefer to use "werks" instead of "works". It's just more fun that way. Fun with intentional misspelling werks! 🙃
+
+**Link to my werk:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
