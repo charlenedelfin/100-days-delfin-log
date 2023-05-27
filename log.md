@@ -351,7 +351,7 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 
 <h2 align="center" id="27">Day 27: May 27, 2023</h2>
 
-![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master.img/img32.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img32.JPG)
 
 **Today's Progress:** I did a lot of coding today, strengthening my patience for looping over the same strings repetitively and checking for different things each time. I am slowing down in my progress through the course, but not because I'm left clueless as to what's going on, but because I write a lot of code in each lesson.
 
