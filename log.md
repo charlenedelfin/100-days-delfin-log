@@ -1,10 +1,10 @@
 <h1 align="center">Charlene Delfin in 100 Days of Code</h1>
 
-<img src="https://pixabay.com/get/g63a917b450e7b4102642d3f078541d43cea225608da0b31a84460e0241bfaf5fe580990325de4764509df9d3112ab6873795e8a80629893e505e31a64864e129ae674d82a66edb67ea1bd3079994943d_1280.jpg">
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/source-g7cb0603dc_1280.jpg)
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26</a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26</a><a href="#27">27</a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -346,3 +346,19 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 **Thoughts:** I am worried why cosole.log() is printing "1". It's supposed to print "3". Also, I feel like I still think too much in C. I still turn strings into arrays and work with them per character. I should adjust to the differences between C and JavaScript. However, I prefer to use "werks" instead of "works". It's just more fun that way. Fun with intentional misspelling werks! 🙃
 
 **Link to my werk:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
+
+<h2 align="center" id="27">Day 27: May 27, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master.img/img32.JPG)
+
+**Today's Progress:** I did a lot of coding today, strengthening my patience for looping over the same strings repetitively and checking for different things each time. I am slowing down in my progress through the course, but not because I'm left clueless as to what's going on, but because I write a lot of code in each lesson.
+
+**Thoughts:** I wonder if I complicated the solutions for the lessons in Basic Algorithm Scripting, or if that's really how it's supposed to be. In another topic, I realized today how <a target="_blank" href="https://mrrobot.fandom.com/wiki/Elliot_Alderson">Elliot Alderson</a> must be an extremely advanced genius. He can quickly figure out what his other personalities have been programming. It took me many painful hours today to figure out the code I wrote last night, and I don't even have split personality. This was my code from last night:
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img31.JPG)
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
