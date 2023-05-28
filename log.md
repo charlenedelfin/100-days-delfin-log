@@ -362,3 +362,13 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
 <a href="#top">Back to top</a>
+
+<h2 align="center" id="28">Day 28: May 28, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img33.JPG)
+
+**Today's Progress:** I learned how to change the case of letters in JavaScript, and then I started working on a problem that suggests I should use slice() and splice().
+
+**Thoughts:** I'm starting to suffer from a great deal of boredom. There's nothing wrong with freeCodeCamp or anything or anyone, it's just my personality. I get bored quickly. I've been coping with this problem by coming up with ways to make things different each time, even when they're still really the same. Now maybe I should <p background-color="yellow">make these logs yellow so they look different.</p>
+
+<p background-color="yellow">Link to work: [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)</p>
