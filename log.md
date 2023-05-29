@@ -374,3 +374,15 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
 <a href="#top">Back to top</a>
+
+<h2 align="center" id="29">Day 29: May 29, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img34.JPG)
+
+**Today's Progress:** I solved the problem from yesterday - which seemed to suggest that I should solve it using slice() and splice() - by not using slice() or splice(). I proceeded to the next problem, where I am not using anything new again and instead resorting to my C ways.
+
+**Thoughts:** Ever since I started programming, I have been in only two very difficult situations: 1) Finding no existing solution to my problem, not even in Stack Overflow. And 2) Producing the correct code that returns the correct data, but still having tests keep insisting that it's wrong. My code above really returns 3, and the test says it should return 3, but the test won't accept my code as correct. Maybe I should delete the whole thing and rewrite the same thing, that is sometimes the solution because the screen seems to sort of freeze. If that's not the problem, maybe I should make it return an array. If not that either, I'll come up with something. \*grim facial expression\*
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
