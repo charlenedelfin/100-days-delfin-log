@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -382,6 +382,22 @@ Not hoping for a complete idea. Just hoping for at least a glimpse of an idea. J
 **Today's Progress:** I solved the problem from yesterday - which seemed to suggest that I should solve it using slice() and splice() - by not using slice() or splice(). I proceeded to the next problem, where I am not using anything new again and instead resorting to my C ways.
 
 **Thoughts:** Ever since I started programming, I have been in only two very difficult situations: 1) Finding no existing solution to my problem, not even in Stack Overflow. And 2) Producing the correct code that returns the correct data, but still having tests keep insisting that it's wrong. My code above really returns 3, and the test says it should return 3, but the test won't accept my code as correct. Maybe I should delete the whole thing and rewrite the same thing, that is sometimes the solution because the screen seems to sort of freeze. If that's not the problem, maybe I should make it return an array. If not that either, I'll come up with something. \*grim facial expression\*
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
+
+<h2 align="center" id="30">Day 30: May 30, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img35.JPG)
+
+**Today's Progress:** I figured out what was wrong with my code from yesterday, and finished the Basic Algorithm Scripting section. I proceeded to the Object Oriented Programming section, where I finally learned what constructors are all about. Constructors were suddenly introduced in the ES6 section, but I had no idea what they were and I had to guess my way around the problems that involved them.
+
+**Thoughts:** There's this common meme about programming.
+
+![Image](https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg)
+
+I was in this situation at the end of Basic Algorithm Scripting. I was still trying to figure out which loop was which loop when my code passed.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
