@@ -409,7 +409,7 @@ I was in this situation at the end of Basic Algorithm Scripting. I was still try
 
 **Today's Progress:** I learned more about objects, constructors, and methods, which are never seen bearing the name, "method", so it can get confusing. I also learned about prototypes, inheritance, instances, and the constructor property, which seems invisible in a constructor.
 
-**Thoughts:** I kept falling asleep in front of the computer while programming today because my kitten slept on my legs. I investigated further into the mystery and found <a target="_blank" herf="https://www.quora.com/Why-do-cats-make-me-sleepy-Is-it-because-they-like-to-sleep-often-or-something-else">this thread on Quora</a>. It's strange there's no scientific research on it yet. I sometimes wonder if sleeping kittens release a sort of sedative on human skin that goes into the bloodstream and makes us zzzzz. 😀
+**Thoughts:** I kept falling asleep in front of the computer while programming today because my kitten slept on my legs. I investigated further into the mystery and found <a target="_blank" href="https://www.quora.com/Why-do-cats-make-me-sleepy-Is-it-because-they-like-to-sleep-often-or-something-else">this thread on Quora</a>. It's strange there's no scientific research on it yet. I sometimes wonder if sleeping kittens release a sort of sedative on human skin that goes into the bloodstream and makes us zzzzz. 😀
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
