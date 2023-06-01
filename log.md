@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -410,6 +410,18 @@ I was in this situation at the end of Basic Algorithm Scripting. I was still try
 **Today's Progress:** I learned more about objects, constructors, and methods, which are never seen bearing the name, "method", so it can get confusing. I also learned about prototypes, inheritance, instances, and the constructor property, which seems invisible in a constructor.
 
 **Thoughts:** I kept falling asleep in front of the computer while programming today because my kitten slept on my legs. I investigated further into the mystery and found <a target="_blank" href="https://www.quora.com/Why-do-cats-make-me-sleepy-Is-it-because-they-like-to-sleep-often-or-something-else">this thread on Quora</a>. It's strange there's no scientific research on it yet. I sometimes wonder if sleeping kittens release a sort of sedative on human skin that goes into the bloodstream and makes us zzzzz. 😀
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
+
+<h2 align="center" id="32">Day 32: June 1, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img37.JPG)
+
+**Today's Progress:** I finished the Object Oriented Programming section and continued to the Functional Programming section. I learned about mixins, modules, closure, and overriding inherited methods. I am now trying to figure out functional programming.
+
+**Thoughts:** I found the Object Oriented Programming section fun and unusually easy, but now I find the next section hard.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
