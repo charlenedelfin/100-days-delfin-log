@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -424,5 +424,17 @@ I was in this situation at the end of Basic Algorithm Scripting. I was still try
 **Thoughts:** I found the Object Oriented Programming section fun and unusually easy, but now I find the next section hard.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
+
+<h2 align="center" id="33">Day 33: June 2, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img38.JPG)
+
+**Today's Progress:** This is the first time in my freeCodeCamp life that I got stuck in one lesson for a day. Well, one hour, actually. I have only one hour for programming today, it's a busy day. Thankfully, I have figured out so far that this problem is asking me to remove the tabs that are supposed to stay.
+
+**Thoughts:** I feel like I am "on the scent" of a solution for this problem. I can almost reach it with my mind, it is near ... unless it's another dead-end. If only I had more time today. But it's a few minutes to midnight now and I should still do the laundry, feed the cats, etc. Then early again tomorrow.
+
+**Link to work:** [My freeCodeCamp](https://freecodecamp.org/charlenedelfin)
 
 <a href="#top">Back to top</a>
