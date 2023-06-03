@@ -457,7 +457,7 @@ Then I proceeded further into the Functional Programming section to finally lear
 
 The first "victim" was my old tablet. I opened it while waiting for my rice to get cooked. Look at it, it's pretty:
 
-![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img43.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img43.jpg)
 
 I think the CPU is the small rectangle, the medium rectangle is the RAM, and the big rectangle is for permanent storage. Unless I'm wrong ... 🤔
 
