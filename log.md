@@ -470,3 +470,15 @@ Is this a variable, or a function that mutates an array? But it could really be 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
 <a href="#top">Back to top</a>
+
+<h2 align="center" id="35">Day 35: June 4, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img44.JPG)
+
+**Today's Progress:** I learned more about slice() and concat(). I learned that concat() actually doesn't mutate an array, just like slice(). Then I started studying reduce(). In the above image, I was testing if there was something wrong with my usage of parseInt().
+
+**Thoughts:** I can't believe I am using all these new methods and I actually get some of them to work. I feel like I'm just blindly making my way through this course and just getting lucky. I feel like Peter Parker in this <a href="https://www.youtube.com/watch?v=DTGwYV0ucsM">scene</a>. It was his first web-swing and he still didn't have much of a clue about what was happening.
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
