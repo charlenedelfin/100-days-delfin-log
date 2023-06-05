@@ -487,9 +487,9 @@ Is this a variable, or a function that mutates an array? But it could really be 
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img45.JPG)
 
-**Today's Progress:** I met my old friends, the conditional (ternary) operators and regex. I managed to solve problems using what I learned about them earlier in the course. In the image above, I was trying to figure out the join method.
+**Today's Progress:** I learned about parseFloat() in my struggle to solve the problem from yesterday. I also met my old friends, the conditional (ternary) operators and regex. In the image above, I was trying to figure out the join method.
 
-**Thoughts:** I looked back to earlier parts of the course today to make sure that what I remembered about the conditional (ternary) operators were correct. Looking back made me remember my earlier days in this course and in #100DaysOfCode. I felt nostalgic. I can't believe I used to consider those early problems hard.
+**Thoughts:** In the image above, I wonder why they say to not use the replace method. Reading it, my brain was like, "What is the replace method?"
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
