@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -490,6 +490,20 @@ Is this a variable, or a function that mutates an array? But it could really be 
 **Today's Progress:** I learned about parseFloat() in my struggle to solve the problem from yesterday. I also met my old friends, the conditional (ternary) operators and regex. In the image above, I was trying to figure out the join method.
 
 **Thoughts:** In the image above, I wonder why they say to not use the replace method. Reading it, my brain was like, "What is the replace method?"
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
+
+<h2 align="center" id="37">Day 37: June 6, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img46.JPG)
+
+**Today's Progress:** I finished Functional Programming and proceeded to Intermediate Algorithm Scripting. In the process, I learned about currying and the arity of functions. Currying is cool because it allows additional customization in programming.
+
+**Thoughts:** Currying makes me think of chickn curry.
+
+![Image](https://www.kawalingpinoy.com/wp-content/uploads/2018/12/filipino-style-chicken-curry-2.jpg)
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
