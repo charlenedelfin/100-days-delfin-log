@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -516,6 +516,18 @@ Is this a variable, or a function that mutates an array? But it could really be 
 **Today's Progress:** I am learning more and more about .filter(). I also went deeper into the usage of .indexOf(), and learned about a new thing called "arguments object". I am starting to really use JavaScript, and not some hybrid of C and JavaScript.
 
 **Thoughts:** My OCD still finds the ways of JavaScript icky, JavaScript mixes everything. Still, there is no choice but to use them with the problems in Intermediate Algorithm Scripting. This section is helping me start to build a kind of tolerance for JavaScript.
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
+
+<h2 align="center" id="39">Day 39: June 8, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img48.JPG)
+
+**Today's Progress:** I solved the problem from yesterday with nested for loops. I just figured that regular expressions and .filter() wouldn't work for that particular problem. Now I am trying to figure out this array of objects and the second argument.
+
+**Thoughts:** I have started to open the rest of the course in another tab and look through the previous lessons for ideas on how to go through my current lessons, like using a manual. I often feel totally clueless now, or that I reached the end of all of my ideas.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
