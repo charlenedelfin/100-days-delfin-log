@@ -571,7 +571,7 @@ Is this a variable, or a function that mutates an array? But it could really be 
 
 <h2 align="center" id="43">Day 43: June 12, 2023</h2>
 
-![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img52.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img53.JPG)
 
 **Today's Progress:** I finished one more lesson today. I can now work with many arrays in multiple loops. I said yesterday I no longer always needed console.log(), but now I decided to make it a habit to use it. Always using console.log() helps me spot bugs before they mess up the whole program.
 
