@@ -587,7 +587,7 @@ The plan was to listen to it while programming, but I kept hearing lots of aweso
 
 <h2 align="center" id="44">Day 44: June 13, 2023</h2>
 
-![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img53.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img54.JPG)
 
 **Today's Progress:** I finished three more lessons. I finally got to work with the Fibonacci sequence. I also learned to look for prime numbers with JavaScript.
 
