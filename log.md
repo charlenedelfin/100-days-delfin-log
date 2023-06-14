@@ -596,3 +596,15 @@ The plan was to listen to it while programming, but I kept hearing lots of aweso
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
 <a href="#top">Back to top</a>
+
+<h2 align="center" id="45">Day 45: June 14, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img55.JPG)
+
+**Today's Progress:** I finished three more lessons. I learned about isArray() while working with nested arrays and fromCharCode() while working with binary code. I also learned that fromCharCode() returns Chinese characters when you don't use parseInt().
+
+**Thoughts:** I like forCharCode(). I have always thought it'd be wonderful if there was something that could quickly decode binary code. 🙂
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
