@@ -623,4 +623,14 @@ The plan was to listen to it while programming, but I kept hearing lots of aweso
 
 <a href="#top">Back to top</a>
 
+<h2 align="center" id="47">Day 47: June 16, 2023</h2>
 
+![Image](https://github.com/charlenedelfin/100-days-delfin-lob/blob/master/img/img59.JPG)
+
+**Today's Progress:** After almost going around the internet to learn about how to add methods to object constructors, I finally added the first methods that were required in the problem from yesterday. I learned that setters are just a variation of a method, you just have to make sure its logic adds up with the logic of the rest of the constructor.
+
+**Thoughts:** Even though it really made life easier, I was never confident about being given complete functions in programming. I tended to be curious about what made them work. The problem from yesterday - which also became the problem for today - gave me a glimpse of how getters and setters work.
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
