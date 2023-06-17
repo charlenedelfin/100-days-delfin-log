@@ -634,3 +634,15 @@ The plan was to listen to it while programming, but I kept hearing lots of aweso
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
 <a href="#top">Back to top</a>
+
+<h2 align="center" id="48">Day 48: June 17, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img53.JPG)
+
+**Today's Progress:** I finally figured out the problem from yesterday. I am now in the last lesson of the whole course.
+
+**Thoughts:** Despite enjoying the difficult parts of this course, I recently developed this tendency to suddenly get dizzy. I hope this doesn't sound like an excuse. I'd just be doing normal stuff, and then I'd suddenly feel nauseaous and sick. It happened once yesterday at 6 p.m. and twice today at 3 p.m. and 7 p.m. Probably caused by scrolling screens too fast. I read very quickly and have the habit of skimming through articles, which result in fast scrolling. The side-effect is that I get dizzy.
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
