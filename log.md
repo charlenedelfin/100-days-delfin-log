@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a><a href="#40">40 </a><a href="#41">41 </a><a href="#42">42 </a><a href="#43">43 </a><a href="#44">44 </a><a href="#45">45 </a><a href="#46">46 </a><a href="#47">47 </a><a href="#48">48 </a><a href="#49">49 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a><a href="#40">40 </a><a href="#41">41 </a><a href="#42">42 </a><a href="#43">43 </a><a href="#44">44 </a><a href="#45">45 </a><a href="#46">46 </a><a href="#47">47 </a><a href="#48">48 </a><a href="#49">49 </a><a href="#50">50 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -654,6 +654,18 @@ The plan was to listen to it while programming, but I kept hearing lots of aweso
 **Today's Progress:** I finally finished the last lesson of the course and also finished the first certification project. So far, I've developed a certain habit in programming where I start writing code to implement the simplest possible solution. Then I build the rest of the program based on the errors that my initial implementation received. I'm not really sure if I'm on the right track with my code above, but it's the simplest one I can think of and I'll build on the errors it will produce. I'm not sure if this is the right approach, but it helps me save time and space and it keeps me from wasting time on far out logic and long code that turn out to be useless.
 
 **Thoughts:** I can't believe I'm on the certification projects. I can't believe I already finished one of them. I have been glancing at them these past month, thinking I'd never get to them. Or that if I got to them, I wouldn't understand a thing because they would be too complicated.
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
+
+<h2 align="center" id="50">Day 50: June 19, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img61.JPG)
+
+**Today's Progress:** I added more code to my solution for the problem from yesterday, getting further and further into the logic of the initial solution that I plan on implementing and checking if each part was doing what I wanted it to do.
+
+**Thoughts:** This program uses repetitive syntax and for loops. I'll clean it up once I figure out the solution.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
 
