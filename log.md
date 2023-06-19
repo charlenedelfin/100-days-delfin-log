@@ -663,7 +663,7 @@ The plan was to listen to it while programming, but I kept hearing lots of aweso
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img61.JPG)
 
-**Today's Progress:** I added more code to my solution for the problem from yesterday, getting further and further into the logic of the initial solution that I plan on implementing and checking if each part was doing what I wanted it to do.
+**Today's Progress:** I added more code to my solution for the problem from yesterday, getting further and further into the logic of the initial solution that I planed on implementing and checking if each part was doing what I wanted it to do.
 
 **Thoughts:** This program uses repetitive syntax and for loops. I'll clean it up once I figure out the solution.
 
