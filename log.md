@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a><a href="#40">40 </a><a href="#41">41 </a><a href="#42">42 </a><a href="#43">43 </a><a href="#44">44 </a><a href="#45">45 </a><a href="#46">46 </a><a href="#47">47 </a><a href="#48">48 </a><a href="#49">49 </a><a href="#50">50 </a><a href="#51">51 </a><a href="#52">52 </a><a href="#53">53 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a><a href="#40">40 </a><a href="#41">41 </a><a href="#42">42 </a><a href="#43">43 </a><a href="#44">44 </a><a href="#45">45 </a><a href="#46">46 </a><a href="#47">47 </a><a href="#48">48 </a><a href="#49">49 </a><a href="#50">50 </a><a href="#51">51 </a><a href="#52">52 </a><a href="#53">53 </a><a href="#54">54 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -707,4 +707,14 @@ The plan was to listen to it while programming, but I kept hearing lots of aweso
 
 <a href="#top">Back to top</a>
 
+<h2 align="center" id="54">Day 54: June 23, 2023</h2>
 
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img65.JPG)
+
+**Today's Progress:** I finally finished Telephone Number Validator. I remembered that if-else statements stopped running as soon as a condition was met. Some of the bugs were caused by me putting conditions within many identical conditions, the program wasn't reaching the lower conditions because it already stopped in a higher condition. Now I have only one project left to finish before I finish the whole course.
+
+**Thoughts:** I feel ashamed of my code for Telephone Number Validator, it looks so messy. 🙈 At least, my .every() method actually works. I felt embarrassed at first when it wasn't working, but I learned later on that it was the fault of the identical conditions.
+
+**Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
+
+<a href="#top">Back to top</a>
