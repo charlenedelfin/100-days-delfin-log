@@ -709,7 +709,7 @@ The plan was to listen to it while programming, but I kept hearing lots of aweso
 
 <h2 align="center" id="54">Day 54: June 23, 2023</h2>
 
-![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img65.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img66.JPG)
 
 **Today's Progress:** I finally finished Telephone Number Validator. I remembered that if-else statements stopped running as soon as a condition was met. Some of the bugs were caused by me putting conditions within many identical conditions, the program wasn't reaching the lower conditions because it already stopped in a higher condition. Now I have only one project left to finish before I finish the whole course.
 
