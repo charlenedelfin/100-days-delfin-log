@@ -765,7 +765,7 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 
 **Today's Progress:** As I began to implement my pseudocode from yesterday, I suddenly decided to experiment instead. After searching again and again for the JavaScript playground that would fit my needs, I settled for <a href="https://codesandbox.io">CodeSandbox</a>. Then I began experimenting whether or not my for loops could be turned into functions. The screenshot above still captured my first function. Code playgrounds I've used in the past saved my code after I signed up for the website. But when I signed up for this one, Ta-dah! All of my code was gone. I had to manually create a new sandbox. In the process, I learned about document.write() and console.clear().
 
-**Thoughts:** I just want to at least get to know the alternatives of for loops some more before I finish this course.
+**Thoughts:** I just want to at least get to know the alternatives to for loops some more before I finish this course.
 
 **Link to work:** [My sandbox](https://codesandbox.io/s/heuristic-moon-3mdgq8)
 
