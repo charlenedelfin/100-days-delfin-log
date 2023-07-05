@@ -853,7 +853,7 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 
 **Today's Progress:** I decided to wrap almost the whole chunk of code within this condition with a loop without adding any modulo operator. It works, but I'm still checking if it's working in the correct way.
 
-**Thoughts:** Skipping the modulo operator led me too early to some of my fears, which are floats. \*blood-curdling scream\* FLOATS!!! The modulo operator saved my life in CS50x, but this might be different. 
+**Thoughts:** Skipping the modulo operator led me too early to some of my fears, which are float points. \*blood-curdling scream\* FLOATING POINTS!!! The modulo operator saved my life in CS50x, but this might be different. 
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img84.JPG)
 
