@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a><a href="#40">40 </a><a href="#41">41 </a><a href="#42">42 </a><a href="#43">43 </a><a href="#44">44 </a><a href="#45">45 </a><a href="#46">46 </a><a href="#47">47 </a><a href="#48">48 </a><a href="#49">49 </a><a href="#50">50 </a><a href="#51">51 </a><a href="#52">52 </a><a href="#53">53 </a><a href="#54">54 </a><a href="#55">55 </a><a href="#56">56 </a><a href="#57">57 </a><a href="#58">58 </a><a href="#59">59 </a><a href="#60">60 </a><a href="#61">61 </a><a href="#62">62 </a><a href="#63">63 </a><a href="#64">64 </a><a href="#65">65 </a><a href="#66">66 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a><a href="#40">40 </a><a href="#41">41 </a><a href="#42">42 </a><a href="#43">43 </a><a href="#44">44 </a><a href="#45">45 </a><a href="#46">46 </a><a href="#47">47 </a><a href="#48">48 </a><a href="#49">49 </a><a href="#50">50 </a><a href="#51">51 </a><a href="#52">52 </a><a href="#53">53 </a><a href="#54">54 </a><a href="#55">55 </a><a href="#56">56 </a><a href="#57">57 </a><a href="#58">58 </a><a href="#59">59 </a><a href="#60">60 </a><a href="#61">61 </a><a href="#62">62 </a><a href="#63">63 </a><a href="#64">64 </a><a href="#65">65 </a><a href="#66">66 </a><a href="#67">67 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -856,5 +856,15 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 **Thoughts:** Skipping the modulo operator led me too early to some of my fears, which are floating-points. \*blood-curdling scream\* FLOATING-POINTS!!! The modulo operator saved my life in CS50x, but this might be different. 
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img84.JPG)
+
+**Link to work:** [My sandbox](https://codesandbox.io/s/beautiful-framework-38ty6k?file=/src/index.js)
+
+<h2 align="center" id="67">Day 67: July 6, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img85.JPG)
+
+**Today's Progress:** I figured out the next part of the program by trying to see how I would solve the problem if I were a computer. I wrote down how I did it and turned it into code. Now I'm trying to figure out why two TEN are in one array.
+
+**Thoughts:** I had difficulty focusing today, I can't even think of how to describe it. A hit-and-run had taken place across the street from my house last night. I didn't see it happen, I just saw the victims. It was so bad, I started sleep talking again. I had a sleep talking problem in 2020 when my neighbor got killed, but I fixed the sleep talking. I've seen worse things in the past. You continue with your life, you pretend everything's fine, but when you see horrible things too often for more than 30 years, it feels kinda too much. Maybe many, many years from now, I would just start shouting random profanities when I see horrible things. I knew a military neighbor once who was like that. They said he had PTSD.
 
 **Link to work:** [My sandbox](https://codesandbox.io/s/beautiful-framework-38ty6k?file=/src/index.js)
