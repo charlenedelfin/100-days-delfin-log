@@ -4,7 +4,7 @@
 
 <p align="center" id="top">Jump to Day [number]:</p>
 
-<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a><a href="#40">40 </a><a href="#41">41 </a><a href="#42">42 </a><a href="#43">43 </a><a href="#44">44 </a><a href="#45">45 </a><a href="#46">46 </a><a href="#47">47 </a><a href="#48">48 </a><a href="#49">49 </a><a href="#50">50 </a><a href="#51">51 </a><a href="#52">52 </a><a href="#53">53 </a><a href="#54">54 </a><a href="#55">55 </a><a href="#56">56 </a><a href="#57">57 </a><a href="#58">58 </a><a href="#59">59 </a><a href="#60">60 </a><a href="#61">61 </a><a href="#62">62 </a><a href="#63">63 </a><a href="#64">64 </a><a href="#65">65 </a><a href="#66">66 </a><a href="#67">67 </a><a href="#68">68 </a></div>
+<div align="center"><a href="#2">2 </a><a href="#3">3 </a><a href="#4">4 </a><a href="#5">5 </a><a href="#6">6 </a><a href="#7">7 </a><a href="#8">8 </a><a href="#9">9 </a><a href="#10">10 </a><a href="#11">11 </a><a href="#12">12 </a><a href="#13">13 </a><a href="#14">14 </a><a href="#15">15 </a><a href="#16">16 </a><a href="#17">17 </a><a href="#18">18 </a><a href="#19">19 </a><a href="#20">20 </a><a href="#21">21 </a><a href="#22">22 </a><a href="#23">23 </a><a href="#24">24 </a><a href="#25">25 </a><a href="#26">26 </a><a href="#27">27 </a><a href="#28">28 </a><a href="#29">29 </a><a href="#30">30 </a><a href="#31">31 </a><a href="#32">32 </a><a href="#33">33 </a><a href="#34">34 </a><a href="#35">35 </a><a href="#36">36 </a><a href="#37">37 </a><a href="#38">38 </a><a href="#39">39 </a><a href="#40">40 </a><a href="#41">41 </a><a href="#42">42 </a><a href="#43">43 </a><a href="#44">44 </a><a href="#45">45 </a><a href="#46">46 </a><a href="#47">47 </a><a href="#48">48 </a><a href="#49">49 </a><a href="#50">50 </a><a href="#51">51 </a><a href="#52">52 </a><a href="#53">53 </a><a href="#54">54 </a><a href="#55">55 </a><a href="#56">56 </a><a href="#57">57 </a><a href="#58">58 </a><a href="#59">59 </a><a href="#60">60 </a><a href="#61">61 </a><a href="#62">62 </a><a href="#63">63 </a><a href="#64">64 </a><a href="#65">65 </a><a href="#66">66 </a><a href="#67">67 </a><a href="#68">68 </a><a href="#69">69 </a></div>
 
 <h2 align="center">Day 1: May 1, 2023</h2>
 
@@ -876,5 +876,15 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 **Today's Progress:** I was looking for the bug that was causing "TEN" and its total (and more) to appear more than once. I moved chunks of code around, but it was still there. In this image, I marked what might be causing it. I will look deeper into this when I get back.
 
 **Thoughts:** The real mystery is the number 1. I wonder where it's coming from. 🤔
+
+**Link to work:** [My sandbox](https://codesandbox.io/s/beautiful-framework-38ty6k?file=/src/index.js)
+
+<h2 align="center" id="69">Day 69: July 8, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-day-delfin-log/blob/master/img/img87.JPG)
+
+**Today's Progress:** I fixed the repeating TEN and fixed lots of other bugs. Now I just need to fix the computation of TEN. I found what's causing it, it's because I assign the same number of bills to a variable with every loop.
+
+**Thoughts:** By the way, I got a scholarship grant to attend the master's degree program of the <a href="https://www.uopeople.edu/programs/online-masters/information-technology/">University of the People</a> in Information Technology last June. It's the reason why I slowed down in freeCodeCamp, I need the time to prepare. I'm also still figuring out how it would go since I am new to UoP. I've been reading their catalog and reviewing my math. 🙂
 
 **Link to work:** [My sandbox](https://codesandbox.io/s/beautiful-framework-38ty6k?file=/src/index.js)
