@@ -881,7 +881,7 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 
 <h2 align="center" id="69">Day 69: July 8, 2023</h2>
 
-![Image](https://github.com/charlenedelfin/100-day-delfin-log/blob/master/img/img87.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img87.JPG)
 
 **Today's Progress:** I fixed the repeating TEN and fixed lots of other bugs. Now I just need to fix the computation of TEN. I found what's causing it, it's because I assign the same number of bills to a variable with every loop.
 
