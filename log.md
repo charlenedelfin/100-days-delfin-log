@@ -895,8 +895,8 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 
 **Todays' Progress:** I fixed the bug from yesterday. I could go back to freeCodeCamp and test this, but if it turns out to be already complete, I might not get the chance to clean it anymore. So I decided to create a separate sandbox to experiment on the best ways to clean the code. I managed to remove nine lines of code by defining multiple variables in one line and replacing a for loop with the map method.
 
-**Thoughts:** We could definie variables in one line in C, so I tried it on my JS program.
+**Thoughts:** We could define variables in one line in C, so I tried it on my JS program.
 
 **Links to work:**
 1. [My second sandbox](https://codesandbox.io/s/beautiful-framework-38ty6k?file=/src/index.js)
-2. [My third sandbox]https://codesandbox.io/s/xenodochial-cerf-2yncqj?file=/src/index.js
+2. [My third sandbox](https://codesandbox.io/s/xenodochial-cerf-2yncqj?file=/src/index.js)
