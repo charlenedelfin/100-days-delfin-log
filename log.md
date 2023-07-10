@@ -905,7 +905,7 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img89.JPG)
 
-**Today's Progress:** I decided to pause cleaning my code and check if it was working on freeCodeCamp. I discovered that it actually had two bugs I hadn't seen. I fixed my map method to remove the first bug, but I still cannot find what is causing the second bug (the change should have only one one-dollar bill).
+**Today's Progress:** I decided to pause cleaning my code and check if it was working on freeCodeCamp. I discovered that it actually had two bugs I didn't see. I fixed my map method to remove the first bug, but I still cannot find what is causing the second bug (the change should have only one one-dollar bill).
 
 **Thoughts:** I find it really mysterious how there are so many one-dollar bills in the change.
 
