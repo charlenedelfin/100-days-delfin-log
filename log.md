@@ -912,3 +912,15 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 **Links to work:**
 1. [My second sandbox](https://codesandbox.io/s/beautiful-framework-38ty6k?file=/src/index.js)
 2. [My third sandbox](https://codesandbox.io/s/xenodochial-cerf-2yncqj?file=/src/index.js)
+
+<h2 align="center" id="72">Day 72: July 11, 2023</h2>
+
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img90.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img91.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img92.JPG)
+
+**Today's Progress:** I noticed that I had been reading my code from top to bottom too many times without finding the bug, so I decided to read it from the opposite direction. I thought I found it, but it turned out to be not the bug. So I started using duck debugger to visualize what was happening. I left a note on top of the file to mark my progress for when I get back.
+
+**Thoughts:** Wharever that bug is, it's most possibly associated with the sum variable. 🤔
+
+**Links to work:** [My current sandbox](https://codesandbox.io/s/beautiful-framework-38ty6k?file=/src/index.js)
