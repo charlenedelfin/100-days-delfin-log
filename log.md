@@ -947,6 +947,8 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 
 <h2 align="center" id="75">Day 75: July 14, 2023</h2>
 
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img95.JPG)
+
 **Today's Progress:** I fixed the last bug anyway, but I won't submit this program to freeCodeCamp yet. I will remove the garbage code first and implement as many of the things taught in the course as I can.
 
 **Thoughts:** This program is unnecessarily long and complicated. I can't wait to simplify it. Because simple is clean and clean is efficient.
