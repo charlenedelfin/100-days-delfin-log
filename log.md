@@ -962,3 +962,5 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 **Today's Progress:** I tested my program with the other problems and discovered that my last bug fix actually destroyed my solutions for all of the previous bugs! I am looking for a better bug fix.
 
 **Thoughts:** Doing this program and reviewing college math for MSIT of UoPeople is causing my brain to be constantly swimming in a myriad of different numbers. 😵‍💫 Headaches are daily now. Don't get me wrong, I am not complaining. I just need to take more breaks.
+
+**Link to work:** [My sandbox](https://codesandbox.io/s/beautiful-framework-38ty6k?file=/src/index.js)
