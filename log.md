@@ -1003,6 +1003,6 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 
 **Today's Progress:** I noticed that, even in its simpler form, parts of my code kept repeating. So I returned to building functions again. I got my first function to work on first run, but it didn't work in the right way. It took me a while to make it work in the right way.
 
-**Thoughts:** I read somewhere that when you're working on a problem as part of studying code, if you take too much time figuring it out, you should look online for solutions. You shouldn't take too much time. The world of programming is a fast-paced world and it's counterproductive to figure out a problem that someone else has already solved. I wonder if the time I'm taking solving this problem is already "too much". I wonder if I should start looking for the solution and just be done and move on to my next project.
+**Thoughts:** I love functions, they're neat.
 
 **Link to work:** [My sandbox](https://codesandbox.io/s/heuristic-moon-3mdgq8)
