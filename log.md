@@ -1039,7 +1039,7 @@ I still haven't thought how to turn this pseudocode into code. Anyway, one bug d
 
 <h2 align="center" id="84">Day 84: July 24, 2023</h2>
 
-![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/JavaScript certificate.JPG)
+![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/JavaScriptcertificate.JPG)
 
 **Today's Progress:** I had read in the #100DaysOfCode repo that skipping a day was allowed, so I decided to skip a day yesterday. Because my sick cat slept on my computer, and I didn't want to disturb my cat. I was sickly when I was young, I know how it feels to be sick. When you find a comfortable place to sleep, you wish you could sleep there forever. When they move you elsewhere, it's upsetting. The upset of the sick is hundreds of times stronger than that of the healthy, and it usually materializes into more sickness.
 
