@@ -1055,6 +1055,6 @@ Today, I finished the JavaScript Algorithms and Data Structures course. I was su
 
 **Today's Progress:** I finished Bootstrap and jQuery. I also realized that 7 Cups uses Bootstrap, and that I actually spent an unnecessary amount of time and energy last May building my GitHub Pages site with bare CSS when there was actually Bootstrap.
 
-**Thoughts:** The last lesson in jQuery made me laugh. It really was "dramatic". 😂 I should use the hinge animation when pulling pranks on people.
+**Thoughts:** The last lesson in jQuery made me laugh. It really was "dramatic". 😂
 
 **Links to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
