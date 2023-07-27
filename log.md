@@ -1075,6 +1075,6 @@ Today, I finished the JavaScript Algorithms and Data Structures course. I was su
 
 **Today's Progress:** I learned about the differences between HTML and JSX, components, and props. I revisited constructors.
 
-**Thoughts:** The course is getting complicated. Sometimes, I feel like I no longer know what I'm doing. I should get a little rest to articulate what's being taught. It looks like components are just React versions of JavaScript objects, but my brain is having another information overload with everything else I'm studying. 😣 I also look after my sick cat almost 24 hours a day ... and all of the other cats.
+**Thoughts:** The course is getting complicated. Sometimes, I feel like I no longer know what I'm doing. I should get a little rest to properly digest what's being taught. It looks like components are just React versions of JavaScript objects, but my brain is having another information overload with everything else I'm studying. 😣 I also look after my sick cat almost 24 hours a day ... and all of the other cats.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
