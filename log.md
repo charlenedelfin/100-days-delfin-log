@@ -1103,7 +1103,7 @@ Today, I finished the JavaScript Algorithms and Data Structures course. I was su
 
 ![Image](https://github.com/charlenedelfin/100-days-delfin-log/blob/master/img/img110.JPG)
 
-**Today's Progress:** I'm almost memorizing the syntax for binding. I also learned to obey rules for proper indentation of code even though freeCodeCamp automatically indents my code, code indentation helps me figure out what's being done in which part of the program.
+**Today's Progress:** I'm almost memorizing the syntax for binding. In the image above, I was planning how to solve the latest problem.
 
 **Thoughts:** Working with React feels like playing with Lego. By the way, I went back to commenting my code and using duck debugger.
 
