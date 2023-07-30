@@ -1105,6 +1105,6 @@ Today, I finished the JavaScript Algorithms and Data Structures course. I was su
 
 **Today's Progress:** I'm almost memorizing the syntax for binding. In the image above, I was planning how to solve the latest problem.
 
-**Thoughts:** Working with React feels like playing with Lego. By the way, I went back to commenting my code and using duck debugger.
+**Thoughts:** Working with React feels like playing with Lego.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
