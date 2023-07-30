@@ -1105,6 +1105,6 @@ Today, I finished the JavaScript Algorithms and Data Structures course. I was su
 
 **Today's Progress:** I'm almost memorizing the syntax for binding. In the image above, I was planning how to solve the latest problem ... well, it was more like feeling my way to the solution.
 
-**Thoughts:** They say you should work out the logic and you shouldn't thrash, but how can I work out the logic if I didn't even know there was a logic? React is becoming a shock to me as much as JavaScript was a shock to me in the beginning. Unlike the specificity of C, JavaScript skipped several steps. React skips even more steps.
+**Thoughts:** They say you should work out the logic and you shouldn't thrash, but how can I work out the logic if I didn't even know there was a logic? React is becoming a shock to me as much as JavaScript was a shock to me in the beginning. Unlike the specificity of C, JavaScript skipped several steps. React skips even more steps. It's jumping. High jump champion.
 
 **Link to work:** [My freeCodeCamp progress](https://freecodecamp.org/charlenedelfin)
